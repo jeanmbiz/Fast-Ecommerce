@@ -2,8 +2,8 @@
   "name": "Fast-Ecommerce",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/m4-pf-node-jardel-04/Fast-Ecommerce.git",
-  "author": "Diogo Soares Peixoto <71359547+Diogo-Peixoto@users.noreply.github.com>",
+  "repository": "https://github.com/jeanmbiz/Fast-Ecommerce",
+  "author": "Jean Michel Biz",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --ignore-watch node_modules src/server.ts",
